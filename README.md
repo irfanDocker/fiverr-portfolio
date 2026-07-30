@@ -2,7 +2,7 @@
 
 A freelance web developer portfolio site, built as a static site with vanilla HTML/CSS/JS (no build step, no dependencies) so it deploys directly on GitHub Pages.
 
-**Live site:** _add your GitHub Pages URL here after deployment_
+**Live site:** https://irfandocker.github.io/fiverr-portfolio/
 
 ## Structure
 
